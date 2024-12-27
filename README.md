@@ -1,1 +1,2 @@
 # API_ProductShowcase
+API Product Showcase fetches product data from an external API and displays the products in a grid format on a web page. It shows product details such as the title, category, price, and image for each product. The products are dynamically loaded and displayed in individual card-like elements, arranged in a grid layout. The page is styled to make the products visually appealing, with each product having a bordered box containing its details.
